@@ -8,11 +8,11 @@
   
   [<img height="30px" src="https://img.shields.io/badge/LinkedIn-2967BC?logo=linkedin&style=flat">](https://www.linkedin.com/in/marc-antoine-gigu%C3%A8re-703815137)
   
-  <img height="25px" src="https://img.shields.io/badge/Golang-FFFFFF?logo=go&style=flat">
-  <img height="25px" src="https://img.shields.io/badge/Kotlin-27282C?logo=kotlin&style=flat">
+  <img height="30px" src="https://img.shields.io/badge/Golang-FFFFFF?logo=go&style=flat">
+  <img height="30px" src="https://img.shields.io/badge/Kotlin-27282C?logo=kotlin&style=flat">
 </div>
 
 <div align="center">
-  <img height="25px" src="https://img.shields.io/badge/Fedora-2D426E?logo=fedora&style=flat">
-  <img height="25px" src="https://img.shields.io/badge/macOS-424245?logo=apple&style=flat" /> 
+  <img height="30px" src="https://img.shields.io/badge/Fedora-2D426E?logo=fedora&style=flat">
+  <img height="30px" src="https://img.shields.io/badge/macOS-424245?logo=apple&style=flat" /> 
 </div>

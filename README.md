@@ -6,7 +6,8 @@
 
 <div align="center" width="50%">
   
-  [<img height="30px" src="https://img.shields.io/badge/LinkedIn-2967BC?logo=linkedin&style=flat">](https://www.linkedin.com/in/marc-antoine-giguere-703815137/)
+  [<img height="24px" src="https://img.shields.io/badge/LinkedIn-2967BC?logo=linkedin&style=flat">](https://www.linkedin.com/in/marc-antoine-giguere-703815137/)
+  <br/><br/>
   
   <img height="32px" src="https://img.shields.io/badge/Golang-3E4042?logo=go&style=flat">
     <img height="32px" src="https://img.shields.io/badge/Elixir-0F1828?logo=elixir&style=flat">

@@ -10,7 +10,7 @@
   <br/><br/>
   
   <img height="32px" src="https://img.shields.io/badge/Golang-3E4042?logo=go&style=flat">
-    <img height="32px" src="https://img.shields.io/badge/Elixir-0F1828?logo=elixir&style=flat">
+    <img height="32px" src="https://img.shields.io/badge/Elixir-4e2a8e?logo=elixir&style=flat">
   <img height="32px" src="https://img.shields.io/badge/Kotlin-FFFFFF?logo=kotlin&style=flat">
 </div>
 
